@@ -46,7 +46,7 @@
 
 > 🌌 **The Developer Universe Hub** is the most complete, community-powered knowledge galaxy for developers at every stage of their journey.
 > Whether you're a beginner writing your first line of code or a senior engineer designing distributed systems — this is your universe.
-> Explore **5,000+ hand-curated resources** across Software Engineering, Full-Stack Development, Web Development, and more.
+> Explore **10,000+ hand-curated resources** across Software Engineering, Full-Stack Development, Web Development, and more.
 
 <br/>
 
@@ -86,7 +86,7 @@
 <tbody>
 <tr>
 <td>🌌 <b>All-in-One Galaxy</b></td>
-<td>4 giant resource collections covering every developer domain — no more hunting across 50 tabs</td>
+<td>5 giant resource collections covering every developer domain — no more hunting across 50 tabs</td>
 </tr>
 <tr>
 <td>🆓 <b>Free-First Philosophy</b></td>
@@ -129,8 +129,8 @@
 <th>🌍 Languages</th>
 </tr>
 <tr>
-<td align="center"><b>5,000+</b></td>
-<td align="center"><b>4</b></td>
+<td align="center"><b>10,000+</b></td>
+<td align="center"><b>5</b></td>
 <td align="center"><b>30+</b></td>
 <td align="center"><b>70%+</b></td>
 <td align="center"><b>15+</b></td>
@@ -192,6 +192,14 @@
 <td>All Levels · General Developers</td>
 <td align="center"><a href="./resources/software-developer.md">📖 Browse →</a></td>
 </tr>
+<tr>
+<td>💻 <b>mobile Developer</b></td>
+<td>The ultimate mobile development collection — Android, iOS, Flutter, React Native, Kotlin, Swift, UI/UX, APIs, performance & communities</td>
+<td align="center"><b>1,500+</b></td>
+<td align="center"><b>20+</b></td>
+<td>All Levels · General Developers</td>
+<td align="center"><a href="./resources/mobile-developer.md">📖 Browse →</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -215,6 +223,7 @@
 | ☁️ I'm moving into Cloud / DevOps | Software Engineer | [Start Here →](./resources/software-engineer.md) |
 | 🔐 I want to learn Security | Software Engineer + Web Dev | [Start Here →](./resources/software-engineer.md) |
 | 🤖 I want to use AI in my workflow | Web Developer | [Start Here →](./resources/web-developer.md) |
+| 📱 I want to build mobile apps | Mobile Developer | [Start Here →](./resources/mobile-developer.md) |
 
 </div>
 
@@ -262,6 +271,7 @@ Full-Stack Res.        Web Dev Res.           SE Resources
     ├── ⚡  full-stack-developer.md       ← 1,500+ Full-Stack resources
     ├── 🌐  web-developer.md              ← 1,500+ Web Developer resources
     └── 💻  software-developer.md         ← 1,500+ General Developer resources
+    └── 📱  mobile-developer.md         ← 1,500+ Mobile Developer resources
 ```
 
 > 💡 **Adding resources?** Each file in `/resources/` follows the same table format.
