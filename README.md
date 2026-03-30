@@ -86,7 +86,7 @@
 <tbody>
 <tr>
 <td>🌌 <b>All-in-One Galaxy</b></td>
-<td>5 giant resource collections covering every developer domain — no more hunting across 50 tabs</td>
+<td>6 giant resource collections covering every developer domain — no more hunting across 50 tabs</td>
 </tr>
 <tr>
 <td>🆓 <b>Free-First Philosophy</b></td>
@@ -130,7 +130,7 @@
 </tr>
 <tr>
 <td align="center"><b>10,000+</b></td>
-<td align="center"><b>5</b></td>
+<td align="center"><b>6</b></td>
 <td align="center"><b>30+</b></td>
 <td align="center"><b>70%+</b></td>
 <td align="center"><b>15+</b></td>
@@ -193,13 +193,22 @@
 <td align="center"><a href="./resources/software-developer.md">📖 Browse →</a></td>
 </tr>
 <tr>
-<td>💻 <b>mobile Developer</b></td>
+<td>💻 <b>Mobile Developer</b></td>
 <td>The ultimate mobile development collection — Android, iOS, Flutter, React Native, Kotlin, Swift, UI/UX, APIs, performance & communities</td>
 <td align="center"><b>1,500+</b></td>
 <td align="center"><b>20+</b></td>
 <td>All Levels · General Developers</td>
 <td align="center"><a href="./resources/mobile-developer.md">📖 Browse →</a></td>
 </tr>
+<tr>
+<td>💻 <b>Desktop Developer</b></td>
+<td>everything a desktop developer needs from learning the fundamentals to shipping polished, production-grade apps on Windows, macOS, and Linux.</td>
+<td align="center"><b>1,500+</b></td>
+<td align="center"><b>25</b></td>
+<td>All Levels · Desktop Developers</td>
+<td align="center"><a href="./resources/desktop-developer.md">📖 Browse →</a></td>
+</tr>
+
 </tbody>
 </table>
 
@@ -224,7 +233,7 @@
 | 🔐 I want to learn Security | Software Engineer + Web Dev | [Start Here →](./resources/software-engineer.md) |
 | 🤖 I want to use AI in my workflow | Web Developer | [Start Here →](./resources/web-developer.md) |
 | 📱 I want to build mobile apps | Mobile Developer | [Start Here →](./resources/mobile-developer.md) |
-
+| 💻 I want to build Desktop apps | Desktop Developer | [Start Here →](./resources/desktop-developer.md) |
 </div>
 
 ---
@@ -272,6 +281,7 @@ Full-Stack Res.        Web Dev Res.           SE Resources
     ├── 🌐  web-developer.md              ← 1,500+ Web Developer resources
     └── 💻  software-developer.md         ← 1,500+ General Developer resources
     └── 📱  mobile-developer.md         ← 1,500+ Mobile Developer resources
+    └── 💻  desktop-developer.md         ← 1,500+ Desktop Developer resources
 ```
 
 > 💡 **Adding resources?** Each file in `/resources/` follows the same table format.
