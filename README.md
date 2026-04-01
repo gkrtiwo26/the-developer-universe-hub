@@ -32,7 +32,7 @@
 
 <!-- BADGE ROW 1 -->
 [![Resources](https://img.shields.io/badge/📦%20Resources-10000%2B-238636?style=for-the-badge&labelColor=0d1117)](https://github.com/augustdev290/the-developer-universe-hub)
-[![Collections](https://img.shields.io/badge/📂%20Collections-12-1f6feb?style=for-the-badge&labelColor=0d1117)](./resources/)
+[![Collections](https://img.shields.io/badge/📂%20Collections-13-1f6feb?style=for-the-badge&labelColor=0d1117)](./resources/)
 [![Stars](https://img.shields.io/github/stars/augustdev290/the-developer-universe-hub?style=for-the-badge&logo=github&logoColor=white&color=f0e040&labelColor=0d1117)](https://github.com/augustdev290/the-developer-universe-hub/stargazers)
 [![Forks](https://img.shields.io/github/forks/augustdev290/the-developer-universe-hub?style=for-the-badge&logo=git&logoColor=white&color=da3633&labelColor=0d1117)](https://github.com/augustdev290/the-developer-universe-hub/forks)
 
@@ -86,7 +86,7 @@
 <tbody>
 <tr>
 <td>🌌 <b>All-in-One Galaxy</b></td>
-<td>12 giant resource collections covering every developer domain — no more hunting across 50 tabs</td>
+<td>13 giant resource collections covering every developer domain — no more hunting across 50 tabs</td>
 </tr>
 <tr>
 <td>🆓 <b>Free-First Philosophy</b></td>
@@ -130,7 +130,7 @@
 </tr>
 <tr>
 <td align="center"><b>10,000+</b></td>
-<td align="center"><b>12</b></td>
+<td align="center"><b>13</b></td>
 <td align="center"><b>40+</b></td>
 <td align="center"><b>80%+</b></td>
 <td align="center"><b>30+</b></td>
@@ -256,6 +256,14 @@
 <td>All Levels · Smart Contract Devs · Web3 Engineers</td>
 <td align="center"><a href="./resources/smart-contract-developer.md">📖 Browse →</a></td>
 </tr>
+<tr>
+<td>🌐 <b>Web3 Developer</b></td>
+<td>everything a Web3 developer needs from blockchain fundamentals, smart contracts, dApp development, wallets, Web3.js/Ethers.js, DeFi, NFTs, Layer 2 scaling, and building decentralized applications and Web3 ecosystems.</td>
+<td align="center"><b>1,500+</b></td>
+<td align="center"><b>20</b></td>
+<td>All Levels · Web3 Devs · Blockchain Engineers</td>
+<td align="center"><a href="./resources/web3-developer.md">📖 Browse →</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -287,6 +295,7 @@
 | 🤖 I want to build AI systems | AI Engineer | [Start Here →](./resources/ai-engineer.md) |
 | ⛓️ I want to build decentralized apps | Blockchain Developer | [Start Here →](./resources/blockchain-developer.md) |
 | 📜 I want to build smart contracts | Smart Contract Developer | [Start Here →](./resources/smart-contract-developer.md) |
+| 🌐 I want to build Web3 apps | Web3 Developer | [Start Here →](./resources/web3-developer.md) |
 </div>
 
 ---
@@ -341,6 +350,7 @@ Full-Stack Res.        Web Dev Res.           SE Resources
     └── 🤖  ai-engineer.md           ← 1,500+ AI Engineer resources
     └── ⛓️  blockchain-developer.md     ← 1,200+ Blockchain Developer resources
     └── 📜  smart-contract-developer.md     ← 1,500+ Smart Contract Developer resources
+    └── 🌐  web3-developer.md     ← 1,500+ Web3 Developer resources
 ```
 
 > 💡 **Adding resources?** Each file in `/resources/` follows the same table format.
